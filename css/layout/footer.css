@@ -1,0 +1,15 @@
+footer {
+    background-color: lightgrey;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    font-family: var(--font-noto-sans);
+}
+
+.divfooter {
+    padding: 20px;
+}
+
+.footer {
+    padding: 18px;
+    font-size: 18px;
+}

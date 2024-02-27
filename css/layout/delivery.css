@@ -1,0 +1,25 @@
+.delivery {
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+#pedir {
+    align-items: center;
+    display: inline;
+}
+
+#entregah2 {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: var(--font-noto-sans);
+}
+
+.entregas {
+    padding: 10px;
+    font-family: var(--font-noto-sans);
+}
+
+#entregador {
+    width: 250px;
+    height: 250px;
+}
